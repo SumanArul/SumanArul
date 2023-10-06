@@ -16,17 +16,22 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Suman J</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanarul&label=Profile%20views&color=0e75b6&style=flat" alt="sumanarul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanarul" alt="sumanarul" /></a> </p>
 
+- 🔭 I’m currently working on [TIC-TAC-TOE](https://github.com/SumanArul/TIC-TAC-TOE-GAME)
+
 - 🌱 I’m currently learning **Node JS**
+
+- 🤝 I’m looking for help with [QUICK QUIZ](https://github.com/SumanArul/Quick-quiz)
 
 - 💬 Ask me about **React JS, HTMl ,CSS**
 
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10HjV2PyYgq_bol-aAztz72OAKiz8J6Hj/view?usp=sharing](https://drive.google.com/file/d/10HjV2PyYgq_bol-aAztz72OAKiz8J6Hj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +46,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanarul&show_icons=true&locale=en" alt="sumanarul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanarul&" alt="sumanarul" /></p>
-
