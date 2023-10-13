@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanarul" alt="sumanarul" /></a> </p>
 
-- 🔭 I’m currently working on [TIC-TAC-TOE](https://github.com/SumanArul/TIC-TAC-TOE-GAME)
+- 🔭 I’m currently working on [TIC-TAC-TOE](https://github.com/SumanArul/Noughts-and-Crosses)
 
 - 🌱 I’m currently learning **Node JS**
 
