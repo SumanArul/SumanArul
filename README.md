@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [QUICK QUIZ](https://github.com/SumanArul/Quick-quiz)
 
-- 💬 Ask me about **React JS, HTMl ,CSS**
+- 💬 Ask me about **OOPs,MySQL,React JS,Node JS**
 
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10HjV2PyYgq_bol-aAztz72OAKiz8J6Hj/view?usp=sharing](https://drive.google.com/file/d/10HjV2PyYgq_bol-aAztz72OAKiz8J6Hj/view?usp=sharing)
+- certificate-(https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing)_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
