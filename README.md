@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Suman </h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img style="width: 200%;" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanarul&label=Profile%20views&color=0e75b6&style=flat" alt="sumanarul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanarul" alt="sumanarul" /></a> </p>
 
-- 🔭 I’m currently working on [Noughts and crosses](https://github.com/SumanArul/Noughts-and-Crosses)
+
+- 🔭 I’m currently working on Noughts and crosses
 
 - 🌱 I’m currently learning **Node JS**
 
@@ -35,7 +35,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fUCNW_RkSQcqAAl9iMgMzYXUU9qwfD_v/view?usp=sharing](https://drive.google.com/file/d/1fUCNW_RkSQcqAAl9iMgMzYXUU9qwfD_v/view?usp=sharing)
+
+
+
+
 - ✍️ certificate  https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanarul" alt="sumanarul" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
