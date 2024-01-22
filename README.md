@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing](_https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing_)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing](https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing)
 
 
 
