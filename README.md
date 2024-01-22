@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Noughts and crosses
+- 🔭 I’m currently working on BLOG-WEBSITE
 
 - 🌱 I’m currently learning **Node JS**
 
-- 🤝 I’m looking for help with [QUICK QUIZ](https://github.com/SumanArul/Quick-quiz)
-
-- 💬 Ask me about **OOPs,MySQL,React JS,Node JS**
+- 💬 Ask me about **OOPs,React JS,Node JS,MySQL**
 
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
 
