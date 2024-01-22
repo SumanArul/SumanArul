@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BLOG-WEBSITE
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **MySQL**
 
-- 💬 Ask me about **OOPs,React JS,Node JS,MySQL**
+- 💬 Ask me about **OOPs,React JS,Node JS**
 
 - 📫 How to reach me **sumanrajarularasu@gmail.com**
 
